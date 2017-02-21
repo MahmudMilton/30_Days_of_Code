@@ -1,1 +1,1 @@
-# 30_Days_of_Code
+# Hackerrank 30 Days of Code
