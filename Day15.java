@@ -9,7 +9,7 @@ public class Node {
     }
 }
 
-public class Solution {
+public class Day15 {
     public static Node insert (Node head, int data) {
         if(head == null) {
             return new Node(data);
